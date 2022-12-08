@@ -36,11 +36,16 @@
     transform: rotate(360deg);
   }
 }
+
+table  {
+  text-align: center;
+}
+
 table, th, td{
   border: 1px solid black;
   align-items: center;
   text-align: center;
-  margin-left: 500px;
+  margin: auto;
   width: 60pc;
   height: 5.3pc;
 }
