@@ -36,3 +36,20 @@
     transform: rotate(360deg);
   }
 }
+table, th, td{
+  border: 1px solid black;
+  align-items: center;
+  text-align: center;
+  margin-left: 500px;
+  width: 60pc;
+  height: 5.3pc;
+}
+
+th{
+  color: red;
+  background-color: #61dafb;
+  
+}
+td:hover{
+  background-color:steelblue
+}
